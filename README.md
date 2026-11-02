@@ -1,18 +1,26 @@
-<img src=".github/preview.png" alt="Ripple Mill Marketing" width="100%">
-
 # Ripple Mill Marketing
 
-**One fix. Then the ripple.** The site for Ripple Mill, an owner-run marketing studio: you work with Millz directly, not a handoff.
+**One fix. Then the ripple.** Practical, owner-run marketing support for independent service businesses.
 
-**Live:** [ripplemill.vercel.app](https://ripplemill.vercel.app) · **Pages mirror:** [jpxgs.github.io/ripplemill](https://jpxgs.github.io/ripplemill/)
+**Website:** [ripplemill.vercel.app](https://ripplemill.vercel.app) · **Source:** [github.com/jpxgs/ripplemill](https://github.com/jpxgs/ripplemill)
 
-## Inside
-- Static, zero-build site: `index.html`, web manifest, full favicon set from the Ripple Mill mark
-- Palette: forest `#1F3B2D`, cream `#F3EAD8`, rust `#B5502A`
-- SEO: structured meta, Open Graph image (`og.png`), `sitemap.xml`, `robots.txt`
-- Sections: services, start-free pricing, written guarantees, expertise, studies
+## Services
+
+- Google Business Profile and local visibility
+- Review and reputation workflows
+- Website and landing-page design
+- Brand identity and creative support
+- Lead follow-up and local advertising
+
+## Project
+
+- Static website built with HTML, CSS and JavaScript
+- Responsive layout and accessible navigation
+- SEO metadata, structured data, sitemap and robots directives
+- No framework or build step required
 
 ## Run locally
+
 ```sh
 python3 -m http.server 8000
 ```
