@@ -2,7 +2,7 @@
 
 **One fix. Then the ripple.** Practical, owner-run marketing support for independent service businesses.
 
-**Website:** [ripplemill.vercel.app](https://ripplemill.vercel.app) · **Source:** [github.com/jpxgs/ripplemill](https://github.com/jpxgs/ripplemill)
+**Website:** [www.ripplemill.com](https://www.ripplemill.com/) · **Source:** [github.com/jpxgs/ripplemill](https://github.com/jpxgs/ripplemill)
 
 ## Services
 
